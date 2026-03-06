@@ -14,13 +14,3 @@ Hi! I'm a DePaul University Math & Computer Science student (GPA: 3.9) 🚀 <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=carlotarzua&theme=date_night&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carlotarzua&theme=date_night&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=carlotarzua&theme=date_night&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=carlotarzua&limit=5&theme=date_night&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

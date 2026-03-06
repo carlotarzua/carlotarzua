@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi! I'm a DePaul University Math & Computer Science student (GPA: 3.9) 🚀 <br><br>I love coding, building fun projects, and learning new technologies.<br>My interests include machine learning, full-stack development, and data analysis.<br><br>Always excited to collaborate, learn, and build cool things ⭐️<br>
 
